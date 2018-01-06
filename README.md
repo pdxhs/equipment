@@ -11,7 +11,7 @@ Let's talk about how information should be organized.
 
 The default structure shall be one folder per Hackerspace Section.
 
-# Proposed Hackerspace Section
+# Proposed Hackerspace Sections
 - Main Hackerspace
 - Woodshop
 - Craft Lab
